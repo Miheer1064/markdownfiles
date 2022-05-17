@@ -1,7 +1,7 @@
 ** Hi there! this is the example of lists. **
 
--Oranges
+* Oranges
 
--Apples
+* Apples
 
--Bananas
+* Bananas
