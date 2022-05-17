@@ -3,6 +3,6 @@
 
 ![images](http://maxblizz.com/wp-content/uploads/2022/01/thor.jpg)
 
-_Link to buy movie tickets_
+_Instagram_
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+My favorite social media is [Instagram](https://instagram.com).
