@@ -10,9 +10,6 @@ My favorite social media is [Instagram](https://instagram.com)
 | Teams | Matches |
 | --- |  --- |
 | 08 | 40 |
+| Delhi capitals | Mumbai Indians |
 
 
-| Command | Description |
-| ----- | ----- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
