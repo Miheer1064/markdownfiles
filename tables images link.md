@@ -5,7 +5,7 @@
 
 _Instagram_
 
-My favorite social media is [Instagram](https://instagram.com)
+My favorite image is  [Delhi Capitals](https://www.delhicapitals.in/)
 
 | Teams | Matches |
 | --- | --- |
