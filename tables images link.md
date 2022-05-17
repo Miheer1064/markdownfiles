@@ -10,7 +10,6 @@ My favorite social media is [Instagram](https://instagram.com)
 | Teams | Matches |
 | --- | --- |
 | 08 | 40 |
-
 | Delhi Capitals | Mumbai Indians |
 
 
