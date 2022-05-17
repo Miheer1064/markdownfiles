@@ -5,7 +5,7 @@
 
 _Instagram_
 
-My favorite image is  [Delhi Capitals](https://www.delhicapitals.in/)
+My favorite link is [Delhi Capitals](https://www.delhicapitals.in/)
 
 | Teams | Matches |
 | --- | --- |
