@@ -5,4 +5,4 @@
 
 _Link to buy movie tickets_
 
-![Refer to this link](http://www.instagram.com)
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
