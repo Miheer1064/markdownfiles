@@ -8,5 +8,7 @@ _Instagram_
 My favorite social media is [Instagram](https://instagram.com)
 
 | Delhi Capitals | | RCB |
+
 | --- | | --- |
+
 | Warner | | Kohli |
