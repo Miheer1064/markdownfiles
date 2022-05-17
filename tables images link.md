@@ -7,5 +7,6 @@ _Instagram_
 
 My favorite social media is [Instagram](https://instagram.com)
 
-| Teams | | Matches|
+| Teams | | Matches |
+| --- | | --- |
 | 08 | |40 |
