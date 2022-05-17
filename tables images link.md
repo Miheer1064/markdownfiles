@@ -5,4 +5,4 @@
 
 _Instagram_
 
-My favorite social media is [Instagram](https://instagram.com).
+My favorite social media is [Instagram](https://instagram.com)
