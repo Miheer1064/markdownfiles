@@ -7,7 +7,5 @@ _Instagram_
 
 My favorite social media is [Instagram](https://instagram.com)
 
-| Ipl | Teams |
-| --- | --- |
-| DC | RCB |
-| Waner | Kohli |
+| Teams | | Matches|
+| 08 | |40 |
